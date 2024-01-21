@@ -42,4 +42,5 @@ Populates the passed iconID string with the VIP's iconID from the database.  It 
 This forward function will be called once a connected client has been checked for vip status.
 
 ### Using The Functions
+<hr>
 In order to use the functions in your code you will need to include 'eotl_vip_core.inc' in your plugin code.  Additionally the eotl_vip_core.smx plugin must be installed on the server.
